@@ -25,4 +25,4 @@ The portfolio highlights my work as a MERN Stack Developer, demonstrating projec
 
 💡 This project reflects my skills and passion for building beautiful, scalable, and real-world web applications using modern JavaScript technologies.
 
-Live Demo :- nikhil-portfolio.netlify.app
+Live Demo :- nikhilsharma-portfolio.netlify.app
